@@ -1,5 +1,5 @@
 # Polygon-annotation-by-cvat
-This repository shows the sample project of polygon annotation using cvat. It provides the the link to raw images, the annotation .txt file, and some screenshots of the project.  
+This repository shows the sample project of polygon annotation using cvat. There are 15 images of cars, 10 images of people and 10 images of chairs. It provides the the link to raw images, the annotation .txt file, and some screenshots of the project.  
 Contact: atharvmane1118@gmail.com 
 ## Annotation 
 [Download COCO JSON ](polygon.json.txt)  
