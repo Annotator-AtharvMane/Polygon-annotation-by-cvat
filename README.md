@@ -1,14 +1,14 @@
 # Polygon-annotation-by-cvat
-this repository shows the polygon annotation using cvat. It provides the the link to raw images, the 
+This repository shows the sample project of polygon annotation using cvat. It provides the the link to raw images, the annotation .txt file, and some screenshots of the project.  
 Contact: atharvmane1118@gmail.com 
 ## Annotation 
 [Download COCO JSON ](polygon.json.txt)  
 ## Raw Images
 https://drive.google.com/drive/folders/1mK92FYS2Jx8P18nm2kpuJcGKF3r74KYO?usp=sharing
 ## Screenshots
-![screenshot](Screenshot.01.png)
-![screenshot](Screenshot.02.png)
-![screenshot](Screenshot.03.png)
-![screenshot](Screenshot.04.png)
-![screenshot](Screenshot.05.png)
-![screenshot](Screenshot.06.png)
+![screenshot](polygon.img.SC.1.png)
+![screenshot](polygon.img.SC.2.png)
+![screenshot](polygon.img.SC.3.png)
+![screenshot](polygon.img.SC.4.png)
+![screenshot](polygon.img.SC.5.png)
+![screenshot](polygon.img.SC.6.png)
