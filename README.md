@@ -4,7 +4,7 @@ Contact: atharvmane1118@gmail.com
 ## Annotation 
 [Download COCO JSON ](polygon.json.txt)  
 ## Raw Images
-https://drive.google.com/drive/folders/1mK92FYS2Jx8P18nm2kpuJcGKF3r74KYO?usp=sharing
+https://drive.google.com/drive/folders/178jLeK0CYFFJ4E-9azat60uyUDfMYlw8?usp=sharing
 ## Screenshots
 ![screenshot](polygon.img.SC.1.png)
 ![screenshot](polygon.img.SC.2.png)
