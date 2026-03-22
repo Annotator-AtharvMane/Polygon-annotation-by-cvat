@@ -2,7 +2,7 @@
 this repository shows the polygon annotation using cvat. It provides the the link to raw images, the 
 Contact: atharvmane1118@gmail.com 
 ## Annotation 
-[Download COCO JSON ](annotation_100_bounding_box.json)  
+[Download COCO JSON ](polygon.json.txt)  
 ## Raw Images
 https://drive.google.com/drive/folders/1mK92FYS2Jx8P18nm2kpuJcGKF3r74KYO?usp=sharing
 ## Screenshots
